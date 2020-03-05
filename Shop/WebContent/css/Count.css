@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+.topDiv {
+	padding:5px 0 5px 5px;
+	width: auto;
+	height: 50px;
+}
+.x1 .x2{
+	float: left;
+	margin-left: 10px;
+	height:20px;
+}
+.x1 font,.x2 font{
+}
+.line {
+	color: black;
+	height: 2px;
+	background: gray;
+}
+
+#tabDiv {
+	text-align: center;
+	border: solid;
+	border-color: #000000;
+}
+.act a {
+	margin-right: 10px;
+	float: right;
+	padding: 1px 10px;
+	color: black;
+	font-size: 20px;
+}
+.xunhuan{
+	border: solid;
+}

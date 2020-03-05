@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.parent {
+	width: 1280px;
+	height: 400px;
+}
+.child {
+	float: left;
+	width: 250px;
+	height: 300px;
+	margin-left: 60px;
+	margin-top: 10px;
+}
+.child li {
+	padding: 1px 0;
+}
